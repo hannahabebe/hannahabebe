@@ -1,5 +1,5 @@
 ## 👨🏼‍🎓 About Me:
-_I am a computer science student who is passionate about learning new technologies and developing innovative solutions. I use **git** for version control. I find it to be a very useful tool for managing my code and projects. I have experience in a variety of programming languages and have worked on a variety of projects from small software projects to large web applications. I am also proficient in using databases such as `MySQL`._
+_I am a computer science graduate with experience in C++,Java, Python, JavaScript, and software development. I have worked on small and large-scale projects, and I am currently focused on `odoo, python, postgres, asterisk,` and `VoIP`. I use **git** for version control. I find it to be a very useful tool for managing my code and projects._
 
 
 ## 📱 Socials:
